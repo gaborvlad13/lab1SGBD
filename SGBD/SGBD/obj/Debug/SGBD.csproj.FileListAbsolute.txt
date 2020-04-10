@@ -1,0 +1,10 @@
+C:\Users\gabor\RiderProjects\SGBD\SGBD\bin\Debug\SGBD.exe.config
+C:\Users\gabor\RiderProjects\SGBD\SGBD\bin\Debug\SGBD.exe
+C:\Users\gabor\RiderProjects\SGBD\SGBD\bin\Debug\SGBD.pdb
+C:\Users\gabor\RiderProjects\SGBD\SGBD\obj\Debug\SGBD.csprojAssemblyReference.cache
+C:\Users\gabor\RiderProjects\SGBD\SGBD\obj\Debug\SGBD.Properties.Resources.resources
+C:\Users\gabor\RiderProjects\SGBD\SGBD\obj\Debug\SGBD.csproj.GenerateResource.cache
+C:\Users\gabor\RiderProjects\SGBD\SGBD\obj\Debug\SGBD.csproj.CoreCompileInputs.cache
+C:\Users\gabor\RiderProjects\SGBD\SGBD\obj\Debug\SGBD.exe
+C:\Users\gabor\RiderProjects\SGBD\SGBD\obj\Debug\SGBD.pdb
+C:\Users\gabor\RiderProjects\SGBD\SGBD\obj\Debug\SGBD.Form1.resources

@@ -1,0 +1,3 @@
+Nume: Gabor Vlad
+Grupa: 223
+Programul a fost facut dupa modelul trimis pe mail. Contine operatiile CRUD.
